@@ -83,6 +83,26 @@ python "Tracker 2.0.py"
 
 Screenshots of the application are included below.
 
+## 📸 Application Screenshots
+
+### 🏠 Main Menu
+![Main Menu](Main_Menu.png)
+
+### 👥 Add Volunteer
+![Volunteer](Volunteer_Add.jpeg)
+
+### 🗺️ Add Affected Area
+![Affected Area](AffectedArea_Add.png)
+
+### 📦 Add Supply
+![Supply](Supply_Add.png)
+
+### 🚚 Record Distribution
+![Distribution](Distribution_Record.png)
+
+### 🔍 View Data
+![View Data](View_Data.png)
+
 ---
 
 ## 👨‍💻 Author
