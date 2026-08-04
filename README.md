@@ -85,9 +85,6 @@ Screenshots of the application are included below.
 
 ## 📸 Application Screenshots
 
-### 🏠 Main Menu
-![Main Menu](Main_Menu.png)
-
 ### 👥 Add Volunteer
 ![Volunteer](Volunteer_Add.jpeg)
 
